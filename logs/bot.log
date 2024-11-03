@@ -1,0 +1,4 @@
+[2024-01-01 00:00:00] Trading Bot started
+[2024-01-01 00:01:00] Executed trade: Buy at 1.2520
+[2024-01-01 00:02:00] Executed trade: Sell at 1.2560
+[2024-01-01 00:03:00] Error: Unable to connect to API

@@ -1,0 +1,7 @@
+{
+    "initial_bankroll": 100,
+    "risk_percentage": 0.05,
+    "max_losses": 3,
+    "stop_loss_percent": 0.10,
+    "take_profit_percent": 0.20
+}
